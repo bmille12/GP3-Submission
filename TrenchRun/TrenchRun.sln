@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidRun", "TrenchRun\TrenchRun\AsteroidRun.csproj", "{7F1F58BA-5ACD-4AA9-914E-835D2E619A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrenchRunContent", "TrenchRun\TrenchRunContent\TrenchRunContent.contentproj", "{3B843E14-C597-4314-93FE-1EBF0E09F403}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{290C83DA-A088-433D-A212-CFC09F7BC8F0}"
+	ProjectSection(SolutionItems) = preProject
+		TrenchRun.vsd = TrenchRun.vsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1F58BA-5ACD-4AA9-914E-835D2E619A60}.Debug|x86.ActiveCfg = Debug|x86
+		{7F1F58BA-5ACD-4AA9-914E-835D2E619A60}.Debug|x86.Build.0 = Debug|x86
+		{7F1F58BA-5ACD-4AA9-914E-835D2E619A60}.Release|x86.ActiveCfg = Release|x86
+		{7F1F58BA-5ACD-4AA9-914E-835D2E619A60}.Release|x86.Build.0 = Release|x86
+		{3B843E14-C597-4314-93FE-1EBF0E09F403}.Debug|x86.ActiveCfg = Debug|x86
+		{3B843E14-C597-4314-93FE-1EBF0E09F403}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

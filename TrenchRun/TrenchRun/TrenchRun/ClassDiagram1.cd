@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AsteroidRun.Game1" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJcQEkMkEiDQgwNC1AAIEAEAIAFAEDqGLD0BQQFiQZ4=</HashCode>
+      <FileName>Classes\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidRun.GameConstants" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgxAAACAAAAAAAAAAAAACAAAAACAACAAAAAgI=</HashCode>
+      <FileName>Classes\GameConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidRun.MainCamera" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAACAAoAAoAAAAASEAAAAAAAgAAAAAAABABAA=</HashCode>
+      <FileName>Classes\MainCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidRun.ObjectFactory" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ObjectFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AsteroidRun.Program" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPSF.ParticleSystems.EngineFire" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgIACAAAgAAAAAAAAAACAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Particle Systems\EngineFire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPSF.ParticleSystems.MeteorStorm" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgIACAAAgAAAAAAAAAACAAAAACAAAAAAAAAEAAA=</HashCode>
+      <FileName>Particle Systems\MeteorStorm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="AsteroidRun.Object" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQECAAAAAAABAACAQAAIBAAAAkAAQAAABAAAACgAAA=</HashCode>
+      <FileName>Classes\Object.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
